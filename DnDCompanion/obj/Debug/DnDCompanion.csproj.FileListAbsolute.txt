@@ -1,0 +1,16 @@
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\ApplicationIcon.png
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\Background.png
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\DnDCompanion.dll
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\DnDCompanion.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\AppManifest.xaml
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\DnDCompanion.xap
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\Bin\Debug\Microsoft.Phone.Controls.xml
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\ResolveAssemblyReference.cache
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\App.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\MainPage.g.i.cs
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\DnDCompanion.g.resources
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\DnDCompanion.dll
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\DnDCompanion.pdb
+c:\users\n61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\XapCacheFile.xml
+C:\Users\N61j\documents\visual studio 2010\Projects\DnDCompanion\DnDCompanion\obj\Debug\Intro.g.i.cs
